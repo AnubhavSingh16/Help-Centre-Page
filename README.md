@@ -1,5 +1,5 @@
 #To intsall all the required dependecies
-npm install
+**npm install
 
 #Navigate to the Project Directory
 cd frontend
